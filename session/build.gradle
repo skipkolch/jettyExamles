@@ -1,0 +1,6 @@
+dependencies {
+    implementation project(':core')
+    implementation project(':login')
+
+    implementation group: 'org.postgresql', name: 'postgresql', version: '42.2.6'
+}

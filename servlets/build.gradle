@@ -1,0 +1,7 @@
+dependencies {
+    implementation project(':core')
+
+
+    implementation group: 'org.eclipse.jetty', name: 'jetty-servlet', version: '9.4.33.v20201020'
+    implementation group: 'org.eclipse.jetty', name: 'jetty-proxy', version: '9.4.33.v20201020'
+}

@@ -1,0 +1,13 @@
+o.e.j.s.h.ContextHandler@5dfcfece{/,null,STARTING} - STARTING
++= ResourceHandler@23ceabc1{STARTED} - STARTED
++> No ClassLoader
++> eventListeners o.e.j.s.h.ContextHandler@5dfcfece{/,null,STARTING} size=3
+|  +> DebugListener@3c5a99da{STOPPED} - STOPPED
+|  +> org.eclipse.jetty.server.DebugListener$2@5d5eef3d
+|  +> org.eclipse.jetty.server.DebugListener$3@56f4468b
++> handler attributes o.e.j.s.h.ContextHandler@5dfcfece{/,null,STARTING} size=1
+|  +> org.eclipse.jetty.server.Executor=QueuedThreadPool[qtp721748895]@2b05039f{STARTED,8<=8<=200,i=8,r=-1,q=0}[ReservedThreadExecutor@3a82f6ef{reserved=0/12,pending=0}]
++> context attributes o.e.j.s.h.ContextHandler@5dfcfece{/,null,STARTING} size=1
+|  +> __RDebugListener@3c5a99da=@6d78f375
++> initparams o.e.j.s.h.ContextHandler@5dfcfece{/,null,STARTING} size=0
+key: +- bean, += managed, +~ unmanaged, +? auto, +: iterable, +] array, +@ map, +> undefined
